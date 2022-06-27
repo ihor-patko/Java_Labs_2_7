@@ -9,6 +9,4 @@ public interface AttractionService {
     List<Attractions> sortByPermissionDESC(List<Attractions> attractionsList,String permission);
     List<Attractions> sortByNumberKidsABS(List<Attractions> attractionsList);
     List<Attractions> sortByNumberKidsDESC(List<Attractions> attractionsList);
-
-
 }

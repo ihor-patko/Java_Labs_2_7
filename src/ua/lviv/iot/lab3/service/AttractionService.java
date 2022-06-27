@@ -1,7 +1,6 @@
 package ua.lviv.iot.lab3.service;
 
 import ua.lviv.iot.lab3.entity.Attractions;
-
 import java.util.List;
 
 public interface AttractionService {
